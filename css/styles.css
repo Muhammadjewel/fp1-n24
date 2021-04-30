@@ -1,9 +1,45 @@
+body {
+  background-color: #fff;
+  font-size: 15px;
+  line-height: 18px;
+  color: #434343;
+}
+
 .site-header {
-  background-color: lightgrey;
+  background-color: #F6F6F9;
+}
+
+.logo {
+  background-color: #fff;
+}
+
+.exchange-rates {
+  list-style: none;
+}
+
+.exchange-rates span {
+  color: #285193;
+  font-weight: bold;
+}
+
+.search-button,
+.language-button {
+  background-color: #fff;
+}
+
+.telegram-link {
+  background-color: #1E96C8;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.sitenav ul {
+  list-style: none;
 }
 
 .sitenav a {
   text-decoration: none;
   font-weight: bold;
-  color: #000;
+  color: #515151;
 }
